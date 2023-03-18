@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hello Friends!👋 I'm George!
+    
+#### 🖥 Web Developer PostgreSQL | Spring Boot | React | Docker | AWS 
+#### 💼 Founder of In7Minutes.
 
 <!--
 **gergacio/gergacio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
