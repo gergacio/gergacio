@@ -1,4 +1,4 @@
-### Hello Friends!👋 I'm Georgi!
+### Hello Friends!👋 I'm Georgi
     
 #### 🖥 Web Developer PostgreSQL | Spring Boot | React | Docker | AWS 
 #### 💼 Founder of In7Minutes.
