@@ -19,4 +19,5 @@ Here are some ideas to get you started:
 -->
 
 [Docker](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png)
-	[Google](https://www.google.com) - _Google | Youtube | Gmail | Maps | PlayStore | GoogleDrive_
+
+	![alt text](http://url/to/img.png)
