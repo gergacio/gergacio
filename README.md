@@ -1,6 +1,6 @@
 ### Hello Friends!👋 I'm Georgi
     
-#### 🖥 Web Developer PostgreSQL | Spring Boot | React | Docker | AWS 
+#### 🖥 Web Developer NoSQL and SQL Databases | Spring Boot | React | Docker | AWS 
 #### 💼 Founder of In7Minutes.
 
 
