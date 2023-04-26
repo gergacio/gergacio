@@ -1,6 +1,6 @@
 ### Hello Friends!👋 I'm Georgi
     
-#### 🖥 DevOps/Web Developer  AWS | Docker | Spring Boot | React | Databases 
+#### DevOps/Web Developer  AWS | Docker | Spring Boot | React | Databases 
 
 
 
