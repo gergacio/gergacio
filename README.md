@@ -6,6 +6,8 @@
 
 [![My Skills](https://skillicons.dev/icons?i=figma&theme=light,html,css,bootstrap,tailwind,js,express,react,mongodb,postgres,mysql,git,docker,aws )](https://skillicons.dev)
 
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
+
 
 <!--
 **gergacio/gergacio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
