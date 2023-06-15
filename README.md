@@ -5,7 +5,7 @@
 
 
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,express,react,mongodb,aws&perline=7)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,express,react,mongodb&perline=7)](https://skillicons.dev)
 
 
 <!--
