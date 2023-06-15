@@ -2,9 +2,9 @@
 ##### Highly motivated Software Engineering graduate with fundamental knowledge of software design, development, testing and deployment.
 ##### I’m currently a volunteer at Scottish Tech Army.
 ## Tech Stack:
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)   ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=figma&theme=light ,html ,css ,bootstrap, tailwind,js ,express, react, mongodb, postgres, mysql, git, docker, aws&perline=3 )](https://skillicons.dev)
 
 
 <!--
