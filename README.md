@@ -6,7 +6,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=figma&theme=light,html,css,bootstrap,tailwind,js,express,react,mongodb,postgres,mysql,git,docker,aws )](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,express,react,mysql&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,express,react,mongodb,postgres,docker,aws&perline=6)](https://skillicons.dev)
 
 
 <!--
