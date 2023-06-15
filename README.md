@@ -1,7 +1,9 @@
-# About Me:
+# About Me
+#
 #### Highly motivated junior software engineer with a fundamental knowledge of software design, development, testing and deployment.
 #### I’m currently a volunteer at Scottish Tech Army.
-# Tech Stack:
+# Tech Stack
+#
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -9,7 +11,7 @@
   </a>
 </p>
 
-[![My Skills](https://skillicons.dev/icons?i=html,js,css,mongodb,express,react&perline=6)](https://skillicons.dev)
+
 
 
 <!--
