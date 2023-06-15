@@ -4,7 +4,7 @@
 ## Tech Stack:
 
 
-[![My Skills](https://skillicons.dev/icons?i=figma&theme=light ,html ,css ,bootstrap, tailwind,js ,express, react, mongodb, postgres, mysql, git, docker, aws&perline=3 )](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=figma&theme=light ,html ,css ,bootstrap, tailwind,js ,express, react, mongodb, postgres, mysql, git, docker, aws )](https://skillicons.dev)
 
 
 <!--
