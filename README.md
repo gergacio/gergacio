@@ -3,9 +3,13 @@
 #### I’m currently a volunteer at Scottish Tech Army.
 # Tech Stack:
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,js,css,mongodb,express,react" />
+  </a>
+</p>
 
-
-[![My Skills](https://skillicons.dev/icons?i=html,js,css,mongodb,express,react&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,js,css,mongodb,express,react&perline=6)](https://skillicons.dev)
 
 
 <!--
