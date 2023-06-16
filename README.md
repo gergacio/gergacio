@@ -6,11 +6,7 @@
 # Tech Stack
 
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,js,css, ,mongodb,express,react,nodejs, ,aws" />
-  </a>
-</p>
+[![My Skills](https://skillicons.dev/icons?i=html,js,css,mongodb,express,react,nodejs,aws&theme=light)](https://skillicons.dev)
 
 
 
