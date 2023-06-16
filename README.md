@@ -6,7 +6,7 @@
 # Tech Stack
 
 
-[![My Skills](https://skillicons.dev/icons?i=html,js,css,mongodb,express,react,nodejs,aws&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mongodb,express,react,nodejs,aws&theme=light)](https://skillicons.dev)
 
 
 
