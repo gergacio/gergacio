@@ -3,7 +3,7 @@
 <p>Highly motivated junior software engineer with a fundamental knowledge of software design, development, testing and deployment.</p>
 <p> I’m currently a volunteer at Scottish Tech Army.</p
 
-# Tech Stack
+<h2> Tech Stack </h2>
 
 
 [![My Skills](https://skillicons.dev/icons?i=mongodb,express,react,nodejs,aws&theme=light)](https://skillicons.dev)
