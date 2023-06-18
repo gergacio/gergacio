@@ -1,7 +1,7 @@
 # About Me
 
-#### Highly motivated junior software engineer with a fundamental knowledge of software design, development, testing and deployment.
-#### I’m currently a volunteer at Scottish Tech Army.
+<p>Highly motivated junior software engineer with a fundamental knowledge of software design, development, testing and deployment.</p>
+<p> I’m currently a volunteer at Scottish Tech Army.</p
 
 # Tech Stack
 
@@ -10,11 +10,6 @@
 
 
 
-<h3 align="center">A passionate frontend developer</h3>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
 <!--
 **gergacio/gergacio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
