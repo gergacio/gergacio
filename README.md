@@ -1,14 +1,17 @@
 # About Me
 
-#### Highly motivated junior software engineer with a fundamental knowledge of software design, development, testing and deployment.
-#### I’m currently a volunteer at Scottish Tech Army.
+#### *Highly motivated junior software engineer with a fundamental knowledge of software design, development, testing and deployment.*
+#### *I’m currently a volunteer at Scottish Tech Army.*
 
 ## Tech Stack
 
 
 [![My Skills](https://skillicons.dev/icons?i=mongodb,express,react,nodejs,aws&theme=light)](https://skillicons.dev)
 
-<div>
+## Live Demo Projects
+> Portfolio Website [_here_](http://3gbg.s3-website.eu-west-2.amazonaws.com/#intro).
+> In7Minutes [_here_](http://in7min-env.eba-pmg6pmub.eu-west-2.elasticbeanstalk.com/).
+> TheSeeker [_here_](http://theseeker.s3-website.eu-west-2.amazonaws.com/).
 
 
 
