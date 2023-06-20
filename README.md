@@ -6,7 +6,7 @@
 ## Tech Stack
 
 
-[![My Skills](https://skillicons.dev/icons?i=html,js,css,mongodb,express,react,nodejs,figma,bootstrap,git,aws&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=figma,html,js,css,bootstrap,react,express,nodejs,mongodb,postgres,mysql,java,git,docker,aws&theme=light)](https://skillicons.dev)
 
 ## Live Demo Projects
 - Portfolio Website [_here_](http://3gbg.s3-website.eu-west-2.amazonaws.com/#intro).
