@@ -12,7 +12,7 @@
 - MyWork [_here_](http://3gbg.s3-website.eu-west-2.amazonaws.com/#intro).
 - In7Minutes [_here_](http://in7min-env.eba-pmg6pmub.eu-west-2.elasticbeanstalk.com/).
 - TheSeeker [_here_](http://theseeker.s3-website.eu-west-2.amazonaws.com/).
-- BulgarianCuisineApp [_here_](http://cuisinebg.s3-website.eu-west-2.amazonaws.com/).
+- BulgarianCuisine [_here_](http://cuisinebg.s3-website.eu-west-2.amazonaws.com/).
 
 
 
