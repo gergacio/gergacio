@@ -15,17 +15,6 @@
 - *TheSeeker* [_here_](http://theseeker.s3-website.eu-west-2.amazonaws.com/).
 - *BulgarianCuisine* [_here_](http://cuisinebg.s3-website.eu-west-2.amazonaws.com/).
 
-
-
-
-## Stats📈
-<p align="center">
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=#gergacio&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&layout=compact&hide_border=true" alt="#gergacio" /> 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=#gergacio&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&hide_border=true" alt="#gergacio" />
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=#your-username&theme=highcontrast&hide_border=true" alt="#your-username" />
-</p>
-
-
 <!--
 
    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
