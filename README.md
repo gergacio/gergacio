@@ -1,13 +1,9 @@
-# *About Me*
+## *About Me*
 
-<div style="background-color:black;color:white;padding:20px;">
+
  - *Highly motivated junior software engineer with a fundamental knowledge of software design, development, testing and deployment.*
  - *I’m currently a volunteer at Scottish Tech Army.*
    
-</div>
-
-
-
 ## *Tech Stack*
 
 
