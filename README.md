@@ -10,7 +10,7 @@
 [![My Skills](https://skillicons.dev/icons?i=figma,html,js,css,bootstrap,react,express,nodejs,mongodb,postgres,mysql,java,git,docker,aws&theme=light)](https://skillicons.dev)
 
 ## *Live Demo Projects*
-- *MyWork* [_here_](http://3gbg.s3-website.eu-west-2.amazonaws.com/#intro).
+- *MyWork* aws[_here_](http://3gbg.s3-website.eu-west-2.amazonaws.com/#intro)  repo[_here_](https://github.com/gergacio/MyWork)
 - *In7Minutes* [_here_](http://in7min-env.eba-pmg6pmub.eu-west-2.elasticbeanstalk.com/).
 - *TheSeeker* [_here_](http://theseeker.s3-website.eu-west-2.amazonaws.com/).
 - *BulgarianCuisine* [_here_](http://cuisinebg.s3-website.eu-west-2.amazonaws.com/).
