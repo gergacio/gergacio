@@ -14,6 +14,7 @@
 - *In7Minutes -* live [_here_](http://in7min-env.eba-pmg6pmub.eu-west-2.elasticbeanstalk.com/) | repo [_here_](https://github.com/gergacio/In7Minutes.)
 - *TheSeeker -* live [_here_](http://theseeker.s3-website.eu-west-2.amazonaws.com/) | repo [_here_](https://github.com/gergacio/TheSeeker)
 - *BulgarianCuisine -* live [_here_](http://cuisinebg.s3-website.eu-west-2.amazonaws.com/) | repo [_here_](https://github.com/gergacio/BulgarianCuisineApp)
+- *Solar System -* live [soon] | repo [_here_](https://github.com/gergacio/SolarSystemApp)
 
 <!--
 
