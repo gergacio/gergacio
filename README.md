@@ -10,11 +10,11 @@
 [![My Skills](https://skillicons.dev/icons?i=figma,html,js,css,bootstrap,react,express,nodejs,mongodb,postgres,mysql,java,git,docker,aws&theme=light)](https://skillicons.dev)
 
 ## *Live Demo Projects*
-- *MyWork -* live [_here_](http://3gbg.s3-website.eu-west-2.amazonaws.com/#intro) | repo [_here_](https://github.com/gergacio/MyWork)
-- *In7Minutes -* live [_here_](http://in7min-env.eba-pmg6pmub.eu-west-2.elasticbeanstalk.com/) | repo [_here_](https://github.com/gergacio/In7Minutes.)
-- *TheSeeker -* live [_here_](http://theseeker.s3-website.eu-west-2.amazonaws.com/) | repo [_here_](https://github.com/gergacio/TheSeeker)
-- *BulgarianCuisine -* live [_here_](http://cuisinebg.s3-website.eu-west-2.amazonaws.com/) | repo [_here_](https://github.com/gergacio/BulgarianCuisineApp)
-- *Solar System -* live [soon] | repo [_here_](https://github.com/gergacio/SolarSystemApp)
+- *MyWork is portfolio website -* live [_here_](http://3gbg.s3-website.eu-west-2.amazonaws.com/#intro) | repo [_here_](https://github.com/gergacio/MyWork)
+- *In7Minutes is learning management system -* live [_here_](http://in7min-env.eba-pmg6pmub.eu-west-2.elasticbeanstalk.com/) | repo [_here_](https://github.com/gergacio/In7Minutes.)
+- *TheSeeker is wellbeing app -* live [_here_](http://theseeker.s3-website.eu-west-2.amazonaws.com/) | repo [_here_](https://github.com/gergacio/TheSeeker)
+- *BulgarianCuisine is recipe app -* live [_here_](http://cuisinebg.s3-website.eu-west-2.amazonaws.com/) | repo [_here_](https://github.com/gergacio/BulgarianCuisineApp)
+- *SolarSystem is educational app -* live [soon] | repo [_here_](https://github.com/gergacio/SolarSystemApp)
 
 <!--
 
