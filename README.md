@@ -13,8 +13,8 @@
 - *MyWork (portfolio website) -* live [_here_](http://3gbg.s3-website.eu-west-2.amazonaws.com/#intro) | repo [_here_](https://github.com/gergacio/MyWork)
 - *In7Minutes (learning management system) -* live [_here_](http://in7min-env.eba-pmg6pmub.eu-west-2.elasticbeanstalk.com/) | repo [_here_](https://github.com/gergacio/In7Minutes.)
 - *TheSeeker (wellbeing app) -* live [_here_](http://theseeker.s3-website.eu-west-2.amazonaws.com/) | repo [_here_](https://github.com/gergacio/TheSeeker)
-- *BulgarianCuisine (recipe app) -* live [_here_](http://cuisinebg.s3-website.eu-west-2.amazonaws.com/) | repo [_here_](https://github.com/gergacio/BulgarianCuisineApp)
-- *SolarSystem (educational app) -* live [soon] | repo [_here_](https://github.com/gergacio/SolarSystemApp)
+- *BulgarianCuisine (recipe app) -* live [_here_](temporarily unavailable) | repo [_here_](https://github.com/gergacio/BulgarianCuisineApp)
+- *SolarSystem (educational app) -* live [here](temporarily unavailable) | repo [_here_](https://github.com/gergacio/SolarSystemApp)
 
 <!--
 
