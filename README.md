@@ -11,11 +11,11 @@
 
 ## *Live Demo Projects*
 - *MyWork (portfolio website) -* live [_here_](http://3gbg.s3-website.eu-west-2.amazonaws.com/#intro) | repo [_here_](https://github.com/gergacio/MyWork)
+- *In7Minutes (educational app) -* live [_here_](http://in7min-env.eba-pmg6pmub.eu-west-2.elasticbeanstalk.com/) | repo [_here_](https://github.com/gergacio/In7Minutes.)
+- *TheSeeker (wellbeing app) -* live [_here_](http://theseeker.s3-website.eu-west-2.amazonaws.com/) | repo [_here_](https://github.com/gergacio/TheSeeker)
+  ##
 - *SolarSystem (educational app) -* live [here](temporarily unavailable) | repo [_here_](https://github.com/gergacio/SolarSystemApp)
 - *BulgarianCuisine (recipe app) -* live [_here_](temporarily unavailable) | repo [_here_](https://github.com/gergacio/BulgarianCuisineApp)
-- *In7Minutes (learning management system) -* live [_here_](http://in7min-env.eba-pmg6pmub.eu-west-2.elasticbeanstalk.com/) | repo [_here_](https://github.com/gergacio/In7Minutes.)
-- *TheSeeker (wellbeing app) -* live [_here_](http://theseeker.s3-website.eu-west-2.amazonaws.com/) | repo [_here_](https://github.com/gergacio/TheSeeker)
-
 <!--
 
    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
