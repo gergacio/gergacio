@@ -10,12 +10,14 @@
 [![My Skills](https://skillicons.dev/icons?i=figma,html,js,css,bootstrap,react,express,nodejs,mongodb,postgres,mysql,java,git,docker,aws&theme=light)](https://skillicons.dev)
 
 ## *Live Demo Projects*
-- *MyWork (portfolio website) -* live [_here_](http://3gbg.s3-website.eu-west-2.amazonaws.com/#intro) | repo [_here_](https://github.com/gergacio/MyWork)
-- *In7Minutes (educational app) -* live [_here_](http://in7min-env.eba-pmg6pmub.eu-west-2.elasticbeanstalk.com/) | repo [_here_](https://github.com/gergacio/In7Minutes.)
-- *TheSeeker (wellbeing app) -* live [_here_](http://theseeker.s3-website.eu-west-2.amazonaws.com/) | repo [_here_](https://github.com/gergacio/TheSeeker)
+- *MyWork (portfolio website - HTML | CSS) -* live [_here_](http://3gbg.s3-website.eu-west-2.amazonaws.com/#intro) | repo [_here_](https://github.com/gergacio/MyWork)
+- *In7Minutes (educational app - fullstack ( PostgreSQL | Spring | React ) ) -* live [_here_](http://in7min-env.eba-pmg6pmub.eu-west-2.elasticbeanstalk.com/) | repo [_here_](https://github.com/gergacio/In7Minutes.)
+- *TheSeeker (wellbeing app - MERN stack) -* live [_here_](http://theseeker.s3-website.eu-west-2.amazonaws.com/) | repo [_here_](https://github.com/gergacio/TheSeeker)
   ##
-- *SolarSystem (educational app) -* live [here](temporarily unavailable) | repo [_here_](https://github.com/gergacio/SolarSystemApp)
-- *BulgarianCuisine (recipe app) -* live [_here_](temporarily unavailable) | repo [_here_](https://github.com/gergacio/BulgarianCuisineApp)
+- *SolarSystem (educational app - MERN stack ) -* live [here](temporarily unavailable) | repo [_here_](https://github.com/gergacio/SolarSystemApp)
+- *BulgarianCuisine (recipe app - MERN stack) -* live [_here_](temporarily unavailable) | repo [_here_](https://github.com/gergacio/BulgarianCuisineApp)
+- *Padopt (pet adoption app - React) -* live [_here_](temporarily unavailable) | repo [_here_](https://github.com/gergacio/Padopt)
+- *WhatAbout (search-based app - React) -* live [_here_](temporarily unavailable) | repo [_here_](https://github.com/gergacio/WhatAbout)
 <!--
 
    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
