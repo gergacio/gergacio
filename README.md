@@ -11,7 +11,7 @@
 
 ## *Live Demo Projects*
 - *MyWork (portfolio website - HTML | CSS) -* live [_here_](http://3gbg.s3-website.eu-west-2.amazonaws.com/#intro) | repo [_here_](https://github.com/gergacio/MyWork)
-- *In7Minutes (educational app - fullstack ( PostgreSQL | Spring | React ) ) -* live [_here_](http://in7min-env.eba-pmg6pmub.eu-west-2.elasticbeanstalk.com/) | repo [_here_](https://github.com/gergacio/In7Minutes.)
+- *In7Minutes (educational app - fullstack ( PostgreSQL | Spring Boot | React ) ) -* live [_here_](http://in7min-env.eba-pmg6pmub.eu-west-2.elasticbeanstalk.com/) | repo [_here_](https://github.com/gergacio/In7Minutes.)
 - *TheSeeker (wellbeing app - MERN stack) -* live [_here_](http://theseeker.s3-website.eu-west-2.amazonaws.com/) | repo [_here_](https://github.com/gergacio/TheSeeker)
   ##
 - *SolarSystem (educational app - MERN stack ) -* live [here](temporarily unavailable) | repo [_here_](https://github.com/gergacio/SolarSystemApp)
