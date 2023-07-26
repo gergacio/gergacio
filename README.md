@@ -11,9 +11,10 @@
 
 ## *Live Demo Projects*
 - *MyWork (portfolio website - HTML | CSS) -* live [_here_](http://3gbg.s3-website.eu-west-2.amazonaws.com/#intro) | repo [_here_](https://github.com/gergacio/MyWork)
-- *In7Minutes (educational app - fullstack ( PostgreSQL | Spring Boot | React ) ) -* live [_here_](http://in7min-env.eba-pmg6pmub.eu-west-2.elasticbeanstalk.com/) | repo [_here_](https://github.com/gergacio/In7Minutes.)
+
 - *TheSeeker (wellbeing app - MERN stack) -* live [_here_](http://theseeker.s3-website.eu-west-2.amazonaws.com/) | repo [_here_](https://github.com/gergacio/TheSeeker)
   ##
+- *In7Minutes (educational app - fullstack ( PostgreSQL | Spring Boot | React ) ) -* live [here](temporarily unavailable) | repo [_here_](https://github.com/gergacio/In7Minutes.)
 - *SolarSystem (educational app - MERN stack ) -* live [here](temporarily unavailable) | repo [_here_](https://github.com/gergacio/SolarSystemApp)
 - *BulgarianCuisine (recipe app - MERN stack) -* live [_here_](temporarily unavailable) | repo [_here_](https://github.com/gergacio/BulgarianCuisineApp)
 - *Padopt (pet adoption app - React) -* live [_here_](temporarily unavailable) | repo [_here_](https://github.com/gergacio/Padopt)
