@@ -10,15 +10,17 @@
 [![My Skills](https://skillicons.dev/icons?i=figma,html,js,css,bootstrap,react,express,nodejs,mongodb,postgres,mysql,java,git,docker,aws&theme=light)](https://skillicons.dev)
 
 ## *Live Demo Projects*
-- *MyWork (portfolio website - HTML | CSS) -* live [_here_](http://3gbg.s3-website.eu-west-2.amazonaws.com/#intro) | repo [_here_](https://github.com/gergacio/MyWork)
+- *My Work ( portfolio website - HTML | CSS ) -* live [_here_](http://3gbg.s3-website.eu-west-2.amazonaws.com/#intro ) | repo [_here_]( https://github.com/gergacio/MyWork )
 
-- *TheSeeker (wellbeing app - MERN stack) -* live [_here_](http://theseeker.s3-website.eu-west-2.amazonaws.com/) | repo [_here_](https://github.com/gergacio/TheSeeker)
+- *Little Garage ( e-commerce app - MERN stack ) -* live [_here_]( temporarily unavailable ) | repo [_here_]( https://github.com/gergacio/LittleGarage )
+
+- *The Seeker ( wellbeing app - MERN stack ) -* live [_here_]( http://theseeker.s3-website.eu-west-2.amazonaws.com/ ) | repo [_here_](https://github.com/gergacio/TheSeeker)
   ##
-- *In7Minutes (educational app - fullstack ( PostgreSQL | Spring Boot | React ) ) -* live [here](temporarily unavailable) | repo [_here_](https://github.com/gergacio/In7Minutes.)
-- *SolarSystem (educational app - MERN stack ) -* live [here](temporarily unavailable) | repo [_here_](https://github.com/gergacio/SolarSystemApp)
-- *BulgarianCuisine (recipe app - MERN stack) -* live [_here_](temporarily unavailable) | repo [_here_](https://github.com/gergacio/BulgarianCuisineApp)
-- *Padopt (pet adoption app - React) -* live [_here_](temporarily unavailable) | repo [_here_](https://github.com/gergacio/Padopt)
-- *WhatAbout (search-based app - React) -* live [_here_](temporarily unavailable) | repo [_here_](https://github.com/gergacio/WhatAbout)
+- *In 7 Minutes ( educational app - fullstack ( PostgreSQL | Spring Boot | React ) ) -* live [here]( temporarily unavailable ) | repo [_here_](https://github.com/gergacio/In7Minutes.)
+- *Solar System ( educational app - MERN stack ) -* live [here](temporarily unavailable) | repo [_here_](https://github.com/gergacio/SolarSystemApp)
+- *Bulgarian Cuisine ( recipe app - MERN stack ) -* live [_here_]( temporarily unavailable ) | repo [_here_](https://github.com/gergacio/BulgarianCuisineApp)
+- *Padopt ( pet adoption app - React ) -* live [_here_]( temporarily unavailable ) | repo [_here_](https://github.com/gergacio/Padopt)
+- *What About..? ( search-based app - React ) -* live [_here_]( temporarily unavailable ) | repo [_here_](https://github.com/gergacio/WhatAbout)
 <!--
 
    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
