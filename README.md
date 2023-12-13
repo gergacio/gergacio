@@ -7,7 +7,7 @@
 ## *Tech Stack*
 
 
-[![My Skills](https://skillicons.dev/icons?i=figma,html,js,css,bootstrap,react,express,nodejs,mongodb,postgres,mysql,java,git,docker,aws&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,mongodb,postgres,java,py,git,docker,aws&theme=light)](https://skillicons.dev)
 
 ## *Real-world apps*
 - *littlegarage. ( e-commerce app - MERN stack ) -* live [_here_]( temporarily unavailable ) | repo [_here_](https://github.com/gergacio/littlegarage)
