@@ -1,23 +1,14 @@
-## *About Me*
 
-
-##### *Highly motivated junior software engineer with a fundamental knowledge of software design, development, testing and deployment.*
-##### *I’m currently a volunteer at Scottish Tech Army.*
+##### *Hello there 👋 I'm Georgi. I am a Full Stack Developer from the United Kingdom..*
    
 ## *Tech Stack*
 
 
 [![My Skills](https://skillicons.dev/icons?i=aws,docker,git,py,postgres,js&theme=light)](https://skillicons.dev)
 
-## *Real-world apps*
-- *littlegarage. ( e-commerce app - MERN stack ) -* live [_here_]( temporarily unavailable ) | repo [_here_](https://github.com/gergacio/littlegarage)
 
-## *Java Script Projects*
-- *The Seeker ( wellbeing app - MERN stack ) -* live [_here_]( http://theseeker.s3-website.eu-west-2.amazonaws.com/ ) | repo [_here_](https://github.com/gergacio/TheSeeker)
-- *Solar System ( educational app - MERN stack ) -* live [here](temporarily unavailable) | repo [_here_](https://github.com/gergacio/SolarSystemApp)
-- *Bulgarian Cuisine ( recipe app - MERN stack ) -* live [_here_]( temporarily unavailable ) | repo [_here_](https://github.com/gergacio/BulgarianCuisineApp)
-- *Padopt ( pet adoption app - React ) -* live [_here_]( temporarily unavailable ) | repo [_here_](https://github.com/gergacio/Padopt)
-- *What About ( search-based app - React ) -* live [_here_]( temporarily unavailable ) | repo [_here_](https://github.com/gergacio/WhatAbout)
+
+
 <!--
 
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
