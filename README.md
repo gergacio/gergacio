@@ -1,10 +1,10 @@
 
 ##### *Hello there 👋 I'm Georgi. I am a Full Stack Developer from the United Kingdom..*
    
-## *Tech Stack*
 
 
-[![My Skills](https://skillicons.dev/icons?i=aws,docker,git,py,postgres,js&theme=light)](https://skillicons.dev)
+
+
 
 
 
