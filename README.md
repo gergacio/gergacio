@@ -1,5 +1,5 @@
 
-##### *Hello there 👋 I'm Georgi. I am a Full Stack Developer from the United Kingdom..*
+##### *Hello there 👋 I'm Georgi.*
    
 
 
