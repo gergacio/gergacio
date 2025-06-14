@@ -1,5 +1,28 @@
 
-##### *Hello there 👋 I'm Georgi.*
+   #### 👋  Hi there!! I'm George
+
+   #####  About me
+
+   #####    🖥     Software dev
+
+   #####    💼     Self employed
+
+   #####    🎓     Bachelor's degree in Computer Systems
+        
+   #####    💜    Open Source Software
+   <div >
+	    <code><img width="20" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/linux.png" alt="Linux" title="Linux"/></code>
+    </div>
+
+
+
+   #####  🔨 I'm currently ...
+
+      - Working on Watermelon!
+
+
+
+ 
    
 
 
