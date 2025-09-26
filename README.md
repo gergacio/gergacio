@@ -1,5 +1,7 @@
 
    #### 👋  Hi there!! I'm George
+
+   ##### Teach fundamental mathematical concepts and computer science
         
    #####    💜    Open Source Software
    <div >
