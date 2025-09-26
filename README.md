@@ -1,7 +1,5 @@
 
    #### 👋  Hi there!! I'm George
-
-   #####  About me
         
    #####    💜    Open Source Software
    <div >
