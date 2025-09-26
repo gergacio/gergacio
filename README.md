@@ -2,12 +2,6 @@
    #### 👋  Hi there!! I'm George
 
    #####  About me
-
-   #####    🖥     Software dev
-
-   #####    💼     Self employed
-
-   #####    🎓     Bachelor's degree in Computer Systems
         
    #####    💜    Open Source Software
    <div >
